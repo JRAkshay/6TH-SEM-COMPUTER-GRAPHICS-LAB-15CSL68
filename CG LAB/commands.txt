@@ -1,0 +1,2 @@
+cc prog.c -lGL -lGLU -lglut -lm
+./a.out
